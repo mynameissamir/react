@@ -1,0 +1,31 @@
+.head{
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    padding-left: 0px;
+
+    
+}
+.arr{
+    width: 5%;
+    float: left;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.details{
+    margin-left: 45%;
+    width: 10%;
+    text-align: center;
+    border: 1px solid black;
+}
+.print{
+    width: 5%;
+    float: right;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-right: 5px;
+
+}
