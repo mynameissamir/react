@@ -7,5 +7,60 @@ html {
 body {
   line-height: 1.5;
   color: black;
-  margin:0;
+
 } 
+.optiontab{
+  float: right;
+  padding-right: 10px;
+}
+.head1{
+  padding: 6px;
+}
+.site_container{
+  margin-bottom: 10px;
+  margin-left: 39% ;
+  width: 350px;
+}
+.newcontent{
+  border: 1px solid gray;
+  margin-bottom: 20px;
+  height: 300px;
+
+}
+.imgcontent img{
+  width: 348px;
+  height: 158px;
+
+  padding-top: 10px;
+
+
+}
+.likeshare{
+  width: 348px;
+  height:20px;
+  
+
+}
+.likeshare span{
+  float: right;
+  font-size: 12px;
+  padding-right: 10px;
+  color: gray;
+}
+.like img{
+  width: 15px;
+  height: 15px;
+  padding-left: 5px;
+  color: gray;
+}
+.likes{
+  height: 10px;
+  font-size: 10px;
+  padding:5px;
+  color: gray;
+}
+.description{
+  height: 10px;
+  font-size: 15px;
+  padding-left:5px;
+}
