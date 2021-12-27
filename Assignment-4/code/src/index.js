@@ -1,17 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Postview from './Postview';
+
+
+import Landing_page from './landingpage';
 import reportWebVitals from './reportWebVitals';
 
 
 
 
 
-ReactDOM.render(
-  <React.StrictMode>
-    <Postview />
-  </React.StrictMode>,
+
+
+
+ReactDOM.render((
+  <Landing_page/>
+),
   document.getElementById('root')
 );
 

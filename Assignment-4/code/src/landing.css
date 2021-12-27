@@ -1,0 +1,39 @@
+.father{
+    display:flex;
+    text-decoration: none;
+    
+}
+.child1{
+    margin-left:200px;
+    
+}
+.child1,.child2{
+    width:35%;
+    height:400px;
+    border: 1px solid black;
+    text-align: center;
+    margin-top:50px;
+    text-decoration: none;
+
+}
+.innerchild1{
+    margin-top: 150px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.button1{
+    border: 1px solid black;
+    width:70px;
+    margin-left: 190px;
+    text-decoration: none;
+}
+
+.child1 img{
+    
+    width:440px;
+    height: 400px;
+}
+.createspace{
+    height: 500px;
+}
