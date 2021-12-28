@@ -1,0 +1,28 @@
+{
+    
+    "user":
+                [
+            {
+            "name":"Siva",
+           "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://media.istockphoto.com/photos/1980s-china-little-girl-and-father-old-photo-of-real-life-picture-id1307006329?b=1&k=20&m=1307006329&s=170667a&w=0&h=ZzElYVALb4Bfz_mhJG9UtK2LZxoaw0_FLLIheeqeBrk=",
+            "date": "128282"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://media.istockphoto.com/photos/singleparent-family-taking-a-selfportrait-picture-id1337376303?b=1&k=20&m=1337376303&s=170667a&w=0&h=CIjpBVjDeF7uTWWSgbaX-yvhdBuh89FTD_zU3Qd5tXI=",
+            "date": 474744
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://media.istockphoto.com/photos/father-helps-young-daughter-ride-skateboard-picture-id1266364224?b=1&k=20&m=1266364224&s=170667a&w=0&h=tFN1UTN5_MGnO671yr4_GT03ycc_AV0K7uwHn0l-E5c=",
+            "date":63636
+            }
+            ]
+}
