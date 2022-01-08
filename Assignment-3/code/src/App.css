@@ -4,16 +4,13 @@
     text-align: center;
     padding: 20px;
     padding-left: 0px;
-
-    
 }
 .arr{
     width: 5%;
     float: left;
-    border: 1px solid black;
-    margin-top: 10px;
+    margin-top: 5px;
     margin-left: 5px;
-
+    font-size: 35px;
 }
 .details{
     margin-left: 45%;
@@ -25,7 +22,52 @@
     width: 5%;
     float: right;
     border: 1px solid black;
-    margin-top: 10px;
-    margin-right: 5px;
+    background-color: #000;
+    color: #eee;
 
+    margin-top: 5px;
+    margin-right: 5px;
+    padding: 10px;
+}
+
+.middle-content{
+    border: 1px solid black;
+    margin:15px;
+    padding: 10px;
+    margin-bottom:10px;
+    font-size: 18px;
+}
+
+.Main-content{
+    display: flex;
+    margin:10px;
+    border:1px solid #eee;
+    background:#eee;
+    
+}
+.Main-content div{
+    width:40%;
+    margin-left: 50px;
+    margin:30px;
+}
+.product{
+    display: flex;
+    margin:10px;
+    border:1px solid gray;
+    padding:10px;
+}
+.product .checkbox{
+    margin-left: 50px;
+    width: 50px;
+    height:50px;
+    margin-top: 30%;
+    
+}
+.product .data1{
+    margin-left:50px;
+
+}
+.avatar{
+    width:100px;
+    height: 100px;
 }
